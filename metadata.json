@@ -1,0 +1,10 @@
+{
+  "name": "قطر لوّل",
+  "description": "لعبة ويب تفاعلية لاكتشاف تراث قطر عبر قرية تراثية ومحطات تعليمية وترفيهية للأطفال والفعاليات الكبرى",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
